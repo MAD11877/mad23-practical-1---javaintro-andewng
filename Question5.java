@@ -54,7 +54,7 @@ public class Question5
       if(count>h)
       {
         h=count;
-        mode=list.get(i)
+        mode=list.get(i);
       }
     }
     System.out.println(mode);
