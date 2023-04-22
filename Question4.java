@@ -25,7 +25,7 @@ public class Question4
         {
           for (int e =0; e<=(base-i); e++)
           {
-            System.out.println("*");
+            System.out.print("*");
           }
           System.out.println();
         }
