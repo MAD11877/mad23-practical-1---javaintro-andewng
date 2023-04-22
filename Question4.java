@@ -18,7 +18,6 @@ public class Question4
      */
      
     Scanner in = new Scanner(System.in);
-    System.out.println("Enter base: ");
     int base = in.nextInt();
     for (int i = 0;
         i<=base;
