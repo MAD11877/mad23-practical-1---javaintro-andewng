@@ -23,7 +23,7 @@ public class Question4
         i<=base;
         i++)
         {
-          for (int e =0; e<=(base-i); e++)
+          for (int e =0; e<(base-i); e++)
           {
             System.out.print("*");
           }
